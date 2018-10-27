@@ -6,6 +6,8 @@ This repo are the source code and documents for the ECE 885 Artificial Neural Ne
 
 Implement 2 variants of the MGU RNN. Compare their performance with standard LSTM, standard MGU using MNIST, NIST, and IMDB database.
 
+The standard MGU paper is presented in "Zhou et al. Minimal Gated Unit for Recurrent Neural Networks.pdf".
+
 ## Requirement
 
 See "ECE-CSE885_Final_Project_SS2017V.pdf"
